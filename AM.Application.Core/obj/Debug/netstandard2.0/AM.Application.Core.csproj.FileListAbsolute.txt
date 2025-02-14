@@ -1,0 +1,10 @@
+C:\Users\mymsi\source\repos\AirportManagement\AM.Application.Core\bin\Debug\netstandard2.0\AM.Application.Core.deps.json
+C:\Users\mymsi\source\repos\AirportManagement\AM.Application.Core\bin\Debug\netstandard2.0\AM.Application.Core.dll
+C:\Users\mymsi\source\repos\AirportManagement\AM.Application.Core\bin\Debug\netstandard2.0\AM.Application.Core.pdb
+C:\Users\mymsi\source\repos\AirportManagement\AM.Application.Core\obj\Debug\netstandard2.0\AM.Application.Core.csproj.AssemblyReference.cache
+C:\Users\mymsi\source\repos\AirportManagement\AM.Application.Core\obj\Debug\netstandard2.0\AM.Application.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mymsi\source\repos\AirportManagement\AM.Application.Core\obj\Debug\netstandard2.0\AM.Application.Core.AssemblyInfoInputs.cache
+C:\Users\mymsi\source\repos\AirportManagement\AM.Application.Core\obj\Debug\netstandard2.0\AM.Application.Core.AssemblyInfo.cs
+C:\Users\mymsi\source\repos\AirportManagement\AM.Application.Core\obj\Debug\netstandard2.0\AM.Application.Core.csproj.CoreCompileInputs.cache
+C:\Users\mymsi\source\repos\AirportManagement\AM.Application.Core\obj\Debug\netstandard2.0\AM.Application.Core.dll
+C:\Users\mymsi\source\repos\AirportManagement\AM.Application.Core\obj\Debug\netstandard2.0\AM.Application.Core.pdb
