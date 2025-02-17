@@ -8,5 +8,9 @@ namespace AM.Application.Core.Domain
     {
         public string HealthInformation { get; set; }
         public string Nationality {  get; set; }
+        public override string PassengerType()
+        {
+            return "I'm a Traveller ";
+        }
     }
 }

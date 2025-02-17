@@ -8,3 +8,4 @@ C:\Users\mymsi\source\repos\AirportManagement\AM.Application.Core\obj\Debug\nets
 C:\Users\mymsi\source\repos\AirportManagement\AM.Application.Core\obj\Debug\netstandard2.0\AM.Application.Core.csproj.CoreCompileInputs.cache
 C:\Users\mymsi\source\repos\AirportManagement\AM.Application.Core\obj\Debug\netstandard2.0\AM.Application.Core.dll
 C:\Users\mymsi\source\repos\AirportManagement\AM.Application.Core\obj\Debug\netstandard2.0\AM.Application.Core.pdb
+C:\Users\mymsi\source\repos\AirportManagement\AM.Application.Core\obj\Debug\netstandard2.0\AM.Application.Core.sourcelink.json

@@ -2,6 +2,8 @@
 
 
 using AM.Application.Core.Domain;
+using AM.Application.Core.Services;
+using AM.ApplicationCore;
 
 
 
@@ -22,5 +24,24 @@ using AM.Application.Core.Domain;
 //Console.WriteLine(plane.ToString());
 
 
-Plane p = new Plane(150, DateTime.Now, PlaneType.Boing);
-Console.WriteLine(p.ToString());
+//Plane p = new Plane(150, DateTime.Now, PlaneType.Boing);
+//Console.WriteLine(p.ToString());
+
+//Passenger p = new Passenger
+//{
+//    FirstName = "louay",
+//    LastName = "benslimen",
+//    EmailAdress = "louay"
+//};
+//Passenger p = new Traveller();
+//Console.WriteLine(p.PassengerType());
+
+ServiceFlight sf = new ServiceFlight();
+
+sf.flights = TestData.listFlights;
+foreach (var flight in sf.GetFlightDates("Madrid"))
+     Console.WriteLine(flight);
+
+
+foreach (var flight in sf.GetFlightDates("Destination","Madrid"))
+    Console.WriteLine(flight);

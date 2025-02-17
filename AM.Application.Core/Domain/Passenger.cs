@@ -18,5 +18,20 @@ namespace AM.Application.Core.Domain
         {
             return " Firstname : " + FirstName + " PassportNumber : "  + PassportNumber + " EmailAdress : " + EmailAdress;
         }
+
+        public bool CheckProfile(string nom, string prenom)
+        {
+            if (this.FirstName == nom || this.LastName == prenom)   { return true; }
+            return false;
+        }
+        public bool CheckProfile(string nom, string prenom,string email)
+        {
+            if (this.FirstName == nom || this.LastName == prenom || this.EmailAdress == email) { return true; }
+            return false;
+        }
+        public virtual string PassengerType()
+        {
+            return "I'm a passenger";
+        }
     }
 }
